@@ -16,7 +16,7 @@
 
 [<< Día 4](../Dia_04_Componentes/04_componentes.md) | [Día 6 >>](../Dia_06_Map_List_Keys/06_map_list_keys.md)
 
-![30 Days of React banner](../images/30_days_of_react_banner_day_5.jpg)
+![30 Days of React banner](/images/30_days_of_react_banner_day_5.jpg)
 
 - [Props](#props)
   - [Props en componentes funcionales](#props-en-componentes-funcionales)

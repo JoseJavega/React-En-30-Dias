@@ -1,5 +1,5 @@
-# 30 Days of React App: Day 5
+# 30 Días de React App: Día 5
 
-In the project directory, you can run to start the project
+En el directorio del proyecto, ejecuta para inciarlo...
 
 ### `npm start`
