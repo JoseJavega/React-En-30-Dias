@@ -43,7 +43,7 @@
 
 En el día anterior, hemos visto como injectar diferentes tipos de datos a componentes React JSX. Ahora veremos como los usamos en componentes y además cómo enviar diferentes datos como props
 
-## What is props?
+## ¿Qué son las props?
 
 Props es una palabra clave especial en React que significa propiedades y se utiliza para pasar datos de un componente a otro y, principalmente, del componente padre al componente hijo. Podemos decir que props es un portador de datos o un medio para transportar datos.
 
