@@ -461,18 +461,18 @@ import ReactDOM from "react-dom";
 
 const showDate = (time) => {
   const months = [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December",
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre",
   ];
 
   const month = months[time.getMonth()].slice(0, 3);
@@ -618,18 +618,18 @@ import ReactDOM from "react-dom";
 // Función que muestra la fecha en formato Mes día, año ejemp. Oct 4, 2020
 const showDate = (time) => {
   const months = [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December",
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre",
   ];
 
   const month = months[time.getMonth()].slice(0, 3);
@@ -674,18 +674,18 @@ import ReactDOM from "react-dom";
 
 const showDate = (time) => {
   const months = [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December",
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre",
   ];
 
   const month = months[time.getMonth()].slice(0, 3);
@@ -746,18 +746,18 @@ import ReactDOM from "react-dom";
 
 const showDate = (time) => {
   const months = [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December",
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre",
   ];
 
   const month = months[time.getMonth()].slice(0, 3);
@@ -823,18 +823,18 @@ import ReactDOM from "react-dom";
 
 const showDate = (time) => {
   const months = [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December",
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre",
   ];
 
   const month = months[time.getMonth()].slice(0, 3);
@@ -903,18 +903,18 @@ import asabenehImage from "./images/asabeneh.jpg";
 
 const showDate = (time) => {
   const months = [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December",
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre",
   ];
 
   const month = months[time.getMonth()].slice(0, 3);

@@ -14,7 +14,7 @@
 
 </div>
 
-[<< Día 5](../Dia_05_Props/05_props.md) | [Día 7 >>](../07_Day_Class_Components/07_class_components.md)
+[<< Día 5](../Dia_05_Props/05_props.md) | [Día 7 >>](../Dia_07_Componentes_De_Clase/07_class_components.md)
 
 ![30 Days of React banner](/images/30_days_of_react_banner_day_6.jpg)
 
@@ -284,4 +284,4 @@ ReactDOM.render(<App />, rootElement);
 
 🎉 FELICIDADES ! 🎉
 
-[<< Día 5](../Dia_05_Props/05_props.md) | [Day 7 >>](../07_Day_Class_Components/07_class_components.md)
+[<< Día 5](../Dia_05_Props/05_props.md) | [Day 7 >>](../Dia_07_Componentes_De_Clase/07_class_components.md)
