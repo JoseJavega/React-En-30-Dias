@@ -14,7 +14,7 @@
 
 </div>
 
-[<< Day 6](../Dia_06_Map_List_Keys/06_map_list_keys.md) | [Day 8 >>](../08_Day_States/08_states.md)
+[<< Day 6](../Dia_06_Map_List_Keys/06_map_list_keys.md) | [Day 8 >>](../Dia_08_Estados/08_estados.md)
 
 ![30 Days of React banner](/images/30_days_of_react_banner_day_7.jpg)
 
